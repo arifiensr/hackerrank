@@ -1,16 +1,16 @@
 function kangaroo(x1, v1, x2, v2) {
 	// Write your code here
-	let z1 = x2 - x1;
-	let z2 = Math.abs(v1 - v2);
-	if (x1 > x2) {
-		console.log('NO');
-	} else {
-		while (x2 <= 10000 && v1 <= 10000 && v1 <= 10000) {
-			x1 += v1;
-			x2 += v2;
-			if (x1 )
-	}
-	}
+// 	let z1 = x2 - x1;
+// 	let z2 = Math.abs(v1 - v2);
+// 	if (x1 > x2) {
+// 		console.log('NO');
+// 	} else {
+// 		while (x2 <= 10000 && v1 <= 10000 && v1 <= 10000) {
+// 			x1 += v1;
+// 			x2 += v2;
+// 			if (x1 )
+// 	}
+// 	}
 }
 
 let array = [0, 7, 5, 6];
