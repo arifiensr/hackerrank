@@ -9,7 +9,7 @@ function factorial(n) {
   //     return 1;
   // else
   //     return n * factorial(n - 1);
-  
+
   let sum = n
   if (n >= 1) {
     for (let i = n - 1; i > 1; i--) {
